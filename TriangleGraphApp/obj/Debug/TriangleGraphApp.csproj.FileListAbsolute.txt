@@ -1,0 +1,14 @@
+C:\PlayArea\TriangleGragh\TriangleGraphApp\bin\Debug\TriangleGraphApp.exe
+C:\PlayArea\TriangleGragh\TriangleGraphApp\bin\Debug\TriangleGraphApp.pdb
+C:\PlayArea\TriangleGragh\TriangleGraphApp\bin\Debug\TriangleLib.dll
+C:\PlayArea\TriangleGragh\TriangleGraphApp\bin\Debug\TriangleLib.pdb
+C:\PlayArea\TriangleGragh\TriangleGraphApp\obj\Debug\TriangleGraphApp.csprojResolveAssemblyReference.cache
+C:\PlayArea\TriangleGragh\TriangleGraphApp\obj\Debug\TriangleGraphApp.exe
+C:\PlayArea\TriangleGragh\TriangleGraphApp\obj\Debug\TriangleGraphApp.pdb
+C:\TriangleGraph\TriangleGraphApp\obj\Debug\TriangleGraphApp.exe
+C:\TriangleGraph\TriangleGraphApp\obj\Debug\TriangleGraphApp.pdb
+C:\TriangleGraph\TriangleGraphApp\bin\Debug\TriangleGraphApp.exe
+C:\TriangleGraph\TriangleGraphApp\bin\Debug\TriangleGraphApp.pdb
+C:\TriangleGraph\TriangleGraphApp\bin\Debug\TriangleLib.dll
+C:\TriangleGraph\TriangleGraphApp\bin\Debug\TriangleLib.pdb
+C:\TriangleGraph\TriangleGraphApp\obj\Debug\TriangleGraphApp.csprojResolveAssemblyReference.cache

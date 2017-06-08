@@ -1,0 +1,10 @@
+C:\PlayArea\TriangleGragh\TriangleLib\obj\Debug\TriangleLib.csprojResolveAssemblyReference.cache
+C:\PlayArea\TriangleGragh\TriangleLib\bin\Debug\TriangleLib.dll
+C:\PlayArea\TriangleGragh\TriangleLib\bin\Debug\TriangleLib.pdb
+C:\PlayArea\TriangleGragh\TriangleLib\obj\Debug\TriangleLib.dll
+C:\PlayArea\TriangleGragh\TriangleLib\obj\Debug\TriangleLib.pdb
+C:\TriangleGraph\TriangleLib\bin\Debug\TriangleLib.dll
+C:\TriangleGraph\TriangleLib\bin\Debug\TriangleLib.pdb
+C:\TriangleGraph\TriangleLib\obj\Debug\TriangleLib.csprojResolveAssemblyReference.cache
+C:\TriangleGraph\TriangleLib\obj\Debug\TriangleLib.dll
+C:\TriangleGraph\TriangleLib\obj\Debug\TriangleLib.pdb
